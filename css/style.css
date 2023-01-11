@@ -134,7 +134,7 @@ menu:focus {
   height: 50px;
   left: 700px;
   top: 430px;
-  color: var(--primary-color);
+  background-color: var(--primary-color);
   box-shadow: #00000f;
   border-radius: 4px;
   color: var(--basic-white-color);
