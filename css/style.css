@@ -129,12 +129,12 @@ menu:focus {
   padding: 94px 0px;
 }
 
-.button-click {
+.button {
   width: 200px;
   height: 50px;
   left: 700px;
   top: 430px;
-  background-color: #2196f3;
+  color: var(--primary-color);
   box-shadow: #00000f;
   border-radius: 4px;
   color: var(--basic-white-color);
