@@ -200,6 +200,7 @@ menu:focus {
   border-radius: 4px;
   cursor: pointer;
   color: #f5f4fa;
+  color: var(--second-primary-color);
 }
 
 .active:hover,
