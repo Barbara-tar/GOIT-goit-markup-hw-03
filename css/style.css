@@ -15,9 +15,6 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 1.125rem;
-  border-bottom: solid;
-  border-bottom: 1px;
-  border-bottom-color: #ececec;
 }
 
 .logo-font {
@@ -325,6 +322,9 @@ menu:focus {
   display: flex;
   flex-direction: column;
   row-gap: 9px;
+  border-bottom: solid;
+  border-bottom: 1px;
+  border-bottom-color: #ececec;
 }
 
 .footer-info {
