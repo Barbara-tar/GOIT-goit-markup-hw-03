@@ -296,6 +296,8 @@ menu:focus {
 .footer-info-wrapper {
   padding-top: 60px;
   padding-bottom: 60px;
+  border-bottom: solid;
+  border-bottom-color: #ececec;
 }
 
 .address-info {
