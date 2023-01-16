@@ -409,6 +409,7 @@ menu:focus {
   row-gap: 50px;
   column-gap: 30px;
   padding-bottom: 94px;
-  border-bottom: solid 1px;
-  border-bottom: var(--third-primary-color);
+  border-bottom: solid;
+  border-bottom: 1px;
+  border-bottom: #eeeeee;
 }
