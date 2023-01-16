@@ -404,5 +404,6 @@ menu:focus {
   column-gap: 30px;
   padding-bottom: 94px;
   box-sizing: border-box;
+  background: var(--white-color);
   border-bottom: 1px solid #eeeeee;
 }
