@@ -296,10 +296,6 @@ menu:focus {
 .footer-info-wrapper {
   padding-top: 60px;
   padding-bottom: 60px;
-  border-bottom: solid;
-  border-bottom: 1px;
-  border-bottom-color: #ececec;
-  margin-bottom: 1px;
 }
 
 .address-info {
@@ -330,6 +326,10 @@ menu:focus {
 
 .footer-info {
   background-color: var(--footer-and-section-color);
+  border-bottom: solid;
+  border-bottom: 1px;
+  border-bottom-color: #ececec;
+  margin-bottom: 1px;
 }
 
 .city-street {
