@@ -199,7 +199,6 @@ menu:focus {
   outline: none;
   border-radius: 4px;
   cursor: pointer;
-  color: #212121;
   color: var(--second-primary-color);
 }
 
