@@ -345,16 +345,10 @@ menu:focus {
   display: flex;
   flex-direction: column;
   row-gap: 9px;
-  border-bottom: solid;
-  border-bottom: 1px;
-  border-bottom-color: #ececec;
 }
 
 .footer-info {
   background-color: var(--footer-and-section-color);
-  border-bottom: solid;
-  border-bottom: 1px;
-  border-bottom-color: #ececec;
 }
 
 .city-street {
