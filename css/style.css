@@ -299,6 +299,7 @@ menu:focus {
   border-bottom: solid;
   border-bottom: 1px;
   border-bottom-color: #ececec;
+  margin-bottom: 1px;
 }
 
 .address-info {
