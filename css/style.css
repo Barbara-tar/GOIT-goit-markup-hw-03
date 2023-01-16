@@ -403,10 +403,10 @@ menu:focus {
   row-gap: 50px;
   column-gap: 30px;
   padding-bottom: 94px;
-  box-sizing: border-box;
 }
 
 .card-set-box {
   background: var(--white-color);
+  box-sizing: border-box;
   border-bottom: 1px solid #eeeeee;
 }
